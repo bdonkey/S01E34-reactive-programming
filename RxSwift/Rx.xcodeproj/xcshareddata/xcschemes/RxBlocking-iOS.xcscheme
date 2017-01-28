@@ -42,6 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "17149D1A1E37997300A04334"
+            BuildableName = "ReactiveUIExample.app"
+            BlueprintName = "ReactiveUIExample"
+            ReferencedContainer = "container:../ReactiveUIExample.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
